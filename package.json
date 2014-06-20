@@ -1,0 +1,18 @@
+{
+  "name": "windowvation-patrice",
+  "version": "0.0.1",
+  "description": "solving windowvation challenge",
+  "main": "main.js",
+  "dependencies": {
+    "q": "^1.0.0",
+    "request": "^2.36.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "patrice",
+  "license": "ISC"
+}
